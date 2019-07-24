@@ -7,7 +7,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author Maan Alaulaqi (201610814@aau.ac.ae)
+ * @author Maan Alaulaqi 
  */
 public class test {
     public static void main(String[] args){

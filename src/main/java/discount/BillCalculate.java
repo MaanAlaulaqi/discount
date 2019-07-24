@@ -8,7 +8,7 @@ package discount;
 
 /**
  *
- * @author Maan Alaulaqi (201610814@aau.ac.ae)
+ * @author Maan Alaulaqi 
  */
 public class BillCalculate {
         private UsersCat user;
